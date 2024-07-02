@@ -13,5 +13,8 @@
     "duration": 2,
     "difficulty": "beginner",
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
-    "technologies": ["linux", "cybersecurity", "ciberseguridad"]
+    "technologies": ["linux", "cybersecurity", "ciberseguridad"],
+	"delivery": {
+		"formats": ["no_delivery"]
+	}
 }
