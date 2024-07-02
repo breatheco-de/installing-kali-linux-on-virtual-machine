@@ -1,5 +1,5 @@
 <!-- hide -->
-# installing kali linux on virtual machine
+# Installing kali linux on virtual machine
 
 > By [@rosinni](https://github.com/rosinni) at [4Geeks Academy](https://4geeksacademy.co/)
 
