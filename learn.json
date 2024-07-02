@@ -16,6 +16,5 @@
 	"technologies": ["linux", "cybersecurity", "ciberseguridad"],
 	"delivery": {
 		"formats": ["no_delivery"]
-	},
-	"localhostOnly": true
+	}
 }
