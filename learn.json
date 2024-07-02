@@ -1,0 +1,17 @@
+{
+    "title": {
+        "us": "Installing Kali Linux on a Virtual Machine",
+        "es": "Instalación de Kali Linux en una Máquina Virtual"
+    },
+    "slug": "installing-kali-linux-on-vm",
+    "description": {
+        "us": "Learn how to install Kali Linux on a virtual machine to explore and use this powerful security tool in a safe and flexible environment.",
+        "es": "Aprende a instalar Kali Linux en una máquina virtual para explorar y usar esta poderosa herramienta de seguridad en un entorno seguro y flexible."
+    },
+    "preview": "https://github.com/your-repo/installing-kali-linux-on-vm/blob/main/assets/preview.png?raw=true",
+    "repository": "https://github.com/breatheco-de/installing-kali-linux-on-virtual-machine",
+    "duration": 2,
+    "difficulty": "beginner",
+    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+    "technologies": ["virtualization", "kali-linux", "cybersecurity"]
+}
