@@ -8,7 +8,7 @@
         "us": "Learn how to install Kali Linux on a virtual machine to explore and use this powerful security tool in a safe and flexible environment.",
         "es": "Aprende a instalar Kali Linux en una máquina virtual para explorar y usar esta poderosa herramienta de seguridad en un entorno seguro y flexible."
     },
-    "preview": "https://github.com/your-repo/installing-kali-linux-on-vm/blob/main/assets/preview.png?raw=true",
+    "preview": "https://github.com/breatheco-de/installing-kali-linux-on-virtual-machine/blob/main/assets/preview-kali.jpg?raw=true",
     "repository": "https://github.com/breatheco-de/installing-kali-linux-on-virtual-machine",
     "duration": 2,
     "difficulty": "beginner",
