@@ -51,7 +51,7 @@ VirtualBox es una herramienta de virtualización gratuita y de código abierto q
 ![descarga 1](assets/get-kali-linux.png)
 
 - [ ] En la sección de imágenes para máquinas virtuales, selecciona la versión de VirtualBox y descarga el archivo VBOX (que generalmente viene como un archivo comprimido).
-![descarga 1](assets\get-kali-for-vb.png)
+![descarga 1](assets/get-kali-for-vb.png)
 - [ ] Si el archivo VBOX está comprimido, descomprímelo utilizando una herramienta como 7-Zip, WinRAR o el descompresor nativo de tu sistema operativo.
 
 ### Paso 3: Creacion de la Máquina Virtual:
@@ -60,7 +60,7 @@ VirtualBox es una herramienta de virtualización gratuita y de código abierto q
 - [ ] Selecciona Linux como el tipo de sistema operativo y Debian (64-bit) como la versión.
 - [ ] Haz clic en Siguiente.
 
-![descarga 1](assets\config-kali.png)
+![descarga 1](assets/config-kali.png)
 
 
 - [ ] Selecciona la cantidad de memoria RAM que deseas asignar a la máquina virtual. Se recomienda al menos 2 GB (2048 MB), pero 4 GB (4096 MB) o más sería ideal para un mejor rendimiento.
@@ -70,7 +70,7 @@ imagen
 - [ ] Haz clic en el icono de la carpeta al lado de esta opción y navega hasta el archivo VBOX descomprimido.
 - [ ] Selecciona el archivo VBOX y haz clic en Abrir y crealo.
 
-![descarga 1](assets\config-disk.png)
+![descarga 1](assets/config-disk.png)
 
 ### Paso 4: Iniciar la Máquina Virtual
 - [ ] Selecciona la máquina virtual de Kali Linux y haz clic en Iniciar. La máquina virtual se iniciará y verás la pantalla de arranque de Kali Linux.
