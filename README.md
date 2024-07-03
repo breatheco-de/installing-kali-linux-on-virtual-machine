@@ -21,8 +21,8 @@ Do not clone any repository! Just follow instructions below:
 Installing Kali Linux on a virtual machine is an excellent way to explore and use this powerful security tool without risking your main operating system. This approach provides a secure and flexible environment that is ideal for both learning and professional applications. In this practice, we will learn how to install one.
 
 ### Requirements
-* Download VirtualBox from Downloads.
-* Download Kali Linux from Kali Linux Downloads.
+* Download VirtualBox from [Downloads](https://www.virtualbox.org/wiki/Downloads).
+* Download Kali Linux from Kali Linux [Downloads](https://www.kali.org/get-kali/#kali-platforms).
 
 ## 📝 Instructions
 
@@ -33,33 +33,34 @@ VirtualBox is a free and open-source virtualization tool that allows users to ru
  - [ ] Run the downloaded installer and follow the installation wizard instructions.
  - [ ] Once installed, open VirtualBox.
 
- ![instalacion virtualBox](assets/virtualbox-img.png)
+ ![installing virtualBox](assets/virtualbox-img.png)
 
 
 ### Step 2: Downloading Kali Linux Virtual Machine
- - [ ] Download from Kali Linux Downloads.
-> NOTE: You can download an ISO image for a fresh installation or a pre-configured image for VirtualBox (OVA/VBOX). In this practice, we'll use the VBOX image.
-![descarga 1](assets/get-kali-linux.png)
+ * Download from Kali Linux [Downloads](https://www.kali.org/get-kali/#kali-platforms).
+
+> 💡 NOTE: You can download an ISO image for a fresh installation or a pre-configured image for VirtualBox (OVA/VBOX). In this practice, we'll use the VBOX image.
+
+![download 1](assets/get-kali-linux.png)
 
 - [ ] In the virtual machines section, select the VirtualBox version and download the VBOX file (typically comes as a compressed file).
-![descarga 1](assets/get-kali-for-vb.png)
+
+![download 2](assets/get-kali-for-vb.png)
 
 - [ ] If the VBOX file is compressed, unzip it using a tool like 7-Zip, WinRAR, or your OS's built-in decompressor.
 
 ### Step 3: Creating the Virtual Machine
- - [ ] Click on the "New" button in the VirtualBox main window.
- - [ ] Name the virtual machine (e.g., Kali Linux).
- - [ ] Select Linux as the operating system type and Debian (64-bit) as the version.
- Click "Next."
-- [ ] Allocate the amount of RAM you want to assign to the VM. At least 2 GB (2048 MB) is recommended, but 4 GB (4096 MB) or more would be ideal for better performance.
-- [ ] Click on Next.
+ - [ ] Go to the folder where you extracted the Kali Linux download and double-click the `vbox` file. This will start your Kali machine with all configurations ready: machine name, operating system type, CPU, etc.
 
-![descarga 1](assets/config-kali.png)
+> 💡 IMPORTANT: If you are doing this with an OVA file, you should:
 
- - [ ] In the hard disk section, select "Use an existing virtual hard disk file."
- Click on the folder icon next to this option and navigate to the uncompressed VBOX file.
- Select the VBOX file and click "Open" and create it.
-![descarga 1](assets/config-disk.png)
+* Go to the File option in VirtualBox -> `Import Appliance...`
+* In the window that opens, click on `Choose virtual appliance file...` and select the OVA file of Kali Linux you downloaded.
+* In the next window, you can review and adjust the virtual machine settings (e.g., memory allocation, number of CPUs, etc.). At least 2 GB (2048 MB) is recommended, but 4 GB (4096 MB) or more would be ideal for better performance.
+
+![config kali](assets/preferences-vm-ova.png)
+
+* Once you are satisfied with the settings, click Import/Finish.
 
 ### Step 4: Starting the Virtual Machine
 - [ ] Select the Kali Linux virtual machine and click "Start." The VM will boot up, and you'll see the Kali Linux boot screen.
