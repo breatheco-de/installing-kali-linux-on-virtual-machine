@@ -8,7 +8,7 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*These instructions are [available in english](https://github.com/breatheco-de/spoofing-and-DoS-lab/blob/main/README.md)*
+*These instructions are [available in english](https://github.com/breatheco-de/installing-kali-linux-on-virtual-machine/blob/main/README.md)*
 <!-- endhide -->
 
 
