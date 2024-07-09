@@ -33,7 +33,7 @@ VirtualBox is a free and open-source virtualization tool that allows users to ru
  - [ ] Run the downloaded installer and follow the installation wizard instructions.
  - [ ] Once installed, open VirtualBox.
 
- ![installing virtualBox](assets/virtualbox-img.png)
+ ![installing virtualBox](https://raw.githubusercontent.com/breatheco-de/installing-kali-linux-on-virtual-machine/main/assets/virtualbox-img.png)
 
 
 ### Step 2: Downloading Kali Linux Virtual Machine
