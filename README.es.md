@@ -42,7 +42,7 @@ VirtualBox es una herramienta de virtualización gratuita y de código abierto q
 - [ ] Una vez instalado, abre VirtualBox.
 
 
-![instalacion virtualBox](assets/virtualbox-img.png)
+![instalacion virtualBox](https://github.com/breatheco-de/installing-kali-linux-on-virtual-machine/raw/main/assets/virtualbox-img.png)
 
 
 
@@ -50,11 +50,11 @@ VirtualBox es una herramienta de virtualización gratuita y de código abierto q
 * Descarga desde Kali Linux [Downloads](https://www.kali.org/get-kali/#kali-platforms). 
 > 💡 NOTA: Podemos descargar una imagen ISO para instalación desde cero o una imagen preconfigurada para VirtualBox (OVA/VBOX). En esta práctica, vamos a usar la imagen VBOX.
 
-![descarga 1](assets/get-kali-linux.png)
+![descarga 1](https://raw.githubusercontent.com/breatheco-de/installing-kali-linux-on-virtual-machine/main/assets/get-kali-linux.png)
 
 - [ ] En la sección de imágenes para máquinas virtuales, selecciona la versión de VirtualBox y descarga el archivo VBOX (que generalmente viene como un archivo comprimido).
 
-![descarga 1](assets/get-kali-for-vb.png)
+![descarga 1](https://raw.githubusercontent.com/breatheco-de/installing-kali-linux-on-virtual-machine/main/assets/get-kali-for-vb.png)
 
 - [ ] Si el archivo VBOX está comprimido, descomprímelo utilizando una herramienta como 7-Zip, WinRAR o el descompresor nativo de tu sistema operativo.
 
@@ -68,7 +68,7 @@ VirtualBox es una herramienta de virtualización gratuita y de código abierto q
 * En la siguiente ventana, puedes revisar y ajustar la configuración de la máquina virtual (por ejemplo, asignación de memoria, número de CPUs, etc.). Se recomienda al menos 2 GB (2048 MB), pero 4 GB (4096 MB) o más sería ideal para un mejor rendimiento.
 
 
-![config kali](assets/preferences-vm-ova.png)
+![config kali](https://raw.githubusercontent.com/breatheco-de/installing-kali-linux-on-virtual-machine/main/assets/preferences-vm-ova.png)
 
 
 * Una vez que estés satisfecho con la configuración, haz clic en Importar/terminar.
