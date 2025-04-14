@@ -26,7 +26,6 @@ Installing Kali Linux on a virtual machine is an excellent way to explore and us
 
 ## 📝 Instructions
 
-
 ### Step 1: Installing VirtualBox
 VirtualBox is a free and open-source virtualization tool that allows users to run multiple operating systems simultaneously on their computer.
 
